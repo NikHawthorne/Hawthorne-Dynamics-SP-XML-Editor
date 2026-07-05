@@ -1,4 +1,4 @@
-# Hawthorne-Dynamics-SP-XML-Editor
+# Hawthorne-Dynamics-SP-Builder-Tools
 
 SimplePlanes XML Editor
 A modern XML editor for SimplePlanes, designed to make editing aircraft XML files faster, easier, and more organized.
